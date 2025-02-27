@@ -29,7 +29,7 @@ uv sync
 
 ## Repository Structure
 
-The repository is organized into the notebooks for `[single-agent](./notebooks/single-agent.ipynb)` and `[multi-agents](./notebooks/multi-agent.ipynb)` harnessing LangChain and LangGraph
+The repository is organized into the notebooks for [single-agent](./notebooks/single-agent.ipynb) and [multi-agents](./notebooks/multi-agent.ipynb) harnessing LangChain and LangGraph
 
 ## Contributing
 
